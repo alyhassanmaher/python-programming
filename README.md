@@ -1,4 +1,4 @@
-# Tactical War Game — Python Project
+# Tactical War Game — Python Programming Project
 
 A turn-based tactical war game built with **Pygame**, featuring grid-based movement, multiple unit types, terrain, and a two-player local multiplayer mode.
 
@@ -46,4 +46,4 @@ python final2-0.py
 
 ## Course
 
-Python 3 — College Project
+Python Programming — College Project
